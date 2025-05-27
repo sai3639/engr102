@@ -1,0 +1,7 @@
+Class=World History
+Crow 100 98 96
+Paige 87 98
+Class=Biology
+Barnes 89 93 79 97 98
+Croston 88 98 78 95 76 82 91
+Harrelson 92 94 83 78 94

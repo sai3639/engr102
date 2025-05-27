@@ -1,0 +1,11 @@
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\bin\Debug\parallaxscrolling.exe.config
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\bin\Debug\parallaxscrolling.exe
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\bin\Debug\parallaxscrolling.pdb
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.csproj.AssemblyReference.cache
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.csproj.SuggestedBindingRedirects.cache
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.Form1.resources
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.Properties.Resources.resources
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.csproj.GenerateResource.cache
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.csproj.CoreCompileInputs.cache
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.exe
+C:\Users\saira\parallax\parallaxscrolling\parallaxscrolling\obj\Debug\parallaxscrolling.pdb
